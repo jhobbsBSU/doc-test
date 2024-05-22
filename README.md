@@ -30,9 +30,9 @@ A critical reflection of your work that analyses what aspects of your Vending Ma
 
 A copy of your vending machine code, simply copy and paste from your code editor
 
-↓Don't delete these tags↓
+
 ```C++ 
-// Replace the code below with your vending machine code
+// Replace the code below with your vending machine code (don't delete the code block tags)
 
 #include <iostream>
 using namespace std;
@@ -41,4 +41,4 @@ int main() {
     return 0;
 }
 ```
-↑Don't delete these tags↑
+
